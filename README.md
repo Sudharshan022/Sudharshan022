@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudharshan022
+- 👋 Hi, I’m @Sudharshan
 - 👀 I’m interested in Software Development, AI & Data science
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on open source projects
