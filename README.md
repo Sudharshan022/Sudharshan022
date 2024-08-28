@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sudharshan
 - 👀 I’m interested in Software Development, AI & Data science
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on open source projects
+- 💻I’m looking to collaborate on open source projects
 - 📫 How to reach me [medarisudharshan@gmail.com] | [https://www.linkedin.com/in/sudharshan-mahendra]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love sci-fi movies!
